@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* adjusted class names to go with updated element names where necessary */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -65,6 +66,8 @@ p {
     margin-left: 20px;
 }
 
+/* combined classes together to avoid redundancy */
+/* reordered css to follow lines html */
 .div-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -86,6 +89,7 @@ p {
     font-size: 36px;
 }
 
+/* changed this to ID for one specific picture */
 #float-right {
     float: right;
     margin-left: 25px;
