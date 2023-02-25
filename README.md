@@ -27,3 +27,6 @@ Repo: https://github.com/pg1219/HW1-code-refactor
 
 Preview image of deployed application
 
+
+![Horiseon-Mark-Up](/repos/HW1-code-refactor/assets/images/Horiseon%20Mock%20Up.png)
+
