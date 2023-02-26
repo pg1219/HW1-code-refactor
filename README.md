@@ -27,4 +27,4 @@ Repo: https://github.com/pg1219/HW1-code-refactor
 
 Preview image of deployed application
 
-![alt](./assets/images/mockup.png)
+![alt](./assets/images/MockUp.png)
